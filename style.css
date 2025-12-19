@@ -47,6 +47,22 @@ h3 {
 	color: #fffdbd;
 	text-align: center;
 	}
-div {
+/* unvisited link */
+a:link {
+  color: deeppink;
+}
 
+/* visited link */
+a:visited {
+  color: cyan;
+}
+
+/* mouse over link */
+a:hover {
+  color: gold;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
