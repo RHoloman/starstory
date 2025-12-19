@@ -23,7 +23,7 @@ p {
 	color: #fffdbd;
 	}
 h1 {
-	font-family: Perpetua; font-size: 24px; 
+	font-family: Perpetua; font-size: 48px; 
 	font-style: bold; 
 	line-height: 26.4px;
 	text-align: center;
@@ -32,7 +32,7 @@ h1 {
 	}
 	
 h2 {
-	font-family: Perpetua; font-size: 18px; 
+	font-family: Perpetua; font-size: 36px; 
 	font-style: italic; 
 	font-variant: normal; 
 	font-weight: 700; 
