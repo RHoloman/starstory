@@ -3,6 +3,9 @@ html {
 	padding: 0;
 	}
 body {
+	font: 75% Perpetua, sans-serif;
+	line-height: 1.88889;
+	color: #fffdbd;
 	background: #0a0014;
 	background: linear-gradient(180deg, rgba(10, 0, 20, 1) 1%, rgba(10, 29, 84, 1) 50%, rgba(74, 4, 56, 1) 100%);
 	margin: 0; 
