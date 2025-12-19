@@ -5,19 +5,11 @@ html {
 body {
     background: linear-gradient(to bottom, #0b011c 0%, #0b0f3b 100%);
 	background-repeat: no-repeat;
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #fffdbd; 
 	margin: 0; 
 	padding: 0;
 	}
 p { 
-	margin-top: 0;
-	color: #fffdbd;
-	text-align: center;
-	}
-h1 {
-	{ font-family: Perpetua; font-size: 24px; 
+	font-family: Perpetua; font-size: 24px; 
 	font-style: italic; 
 	font-variant: normal; 
 	font-weight: 700; 
@@ -25,7 +17,27 @@ h1 {
 	text-align: center;
 	color: #fffdbd;
 	}
+h1 {
+	{ 
+	font-family: Perpetua; font-size: 24px; 
+	font-style: bold; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 26.4px;
+	text-align: center;
+	color: #fffdbd;
 	margin-top: 0;
+	}
+	
+h2 {
+	font-family: Perpetua; font-size: 18px; 
+	font-style: italic; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 26.4px;
+	text-align: center;
+	color: #fffdbd;
+   }
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
