@@ -14,13 +14,15 @@ p {
 	margin-top: 0; 
 	text-align: justify;
 	color: #fffdbd;
+	text-align: center;
 	}
 h1 {
 	{ font-family: Perpetua; font-size: 24px; 
 	font-style: italic; 
 	font-variant: normal; 
 	font-weight: 700; 
-	line-height: 26.4px; 
+	line-height: 26.4px;
+	text-align: center;
 	color: #fffdbd;
 	}
 	margin-top: 0;
@@ -29,6 +31,7 @@ h3 {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #fffdbd;
+	text-align: center;
 	}
 div {
 
