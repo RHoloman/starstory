@@ -6,7 +6,7 @@ body {
   background-color: #03010d;
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
+	color: #fffdbd; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -14,9 +14,18 @@ p {
 	margin-top: 0; 
 	text-align: justify;
 	}
+h1 {
+	{ font-family: Perpetua; font-size: 24px; 
+	font-style: italic; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 26.4px; 
+	color: #fffdbd;
+}
+	margin-top: 0;
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #7D775C;
+	color: #fffdbd;
 	}
